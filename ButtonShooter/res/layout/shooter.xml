@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvHit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/hit"
+        android:textColor="@android:color/black"
+        android:textSize="50sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvPew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="300dp"
+        android:text="@string/fire"
+        android:textSize="40sp" >
+    </TextView>
+
+    <Button
+        android:id="@+id/btnShoot"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:textSize="25sp"
+        android:text="@string/shoot" />
+
+</LinearLayout>

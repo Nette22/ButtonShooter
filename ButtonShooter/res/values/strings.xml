@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Button Shooter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play_button">Play</string>
+    <string name="exit">Exit</string>
+    <string name="shoot">Shoot</string>
+    <string name="hit">IT\'S A HIT!</string>
+    <string name="fire">FIRE!</string>
+    <string name="pew">PEW!</string>
+
+</resources>
